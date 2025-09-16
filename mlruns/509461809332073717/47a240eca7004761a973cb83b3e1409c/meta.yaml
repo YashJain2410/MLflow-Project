@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/509461809332073717/47a240eca7004761a973cb83b3e1409c/artifacts
+end_time: 1757998495798
+entry_point_name: ''
+experiment_id: '509461809332073717'
+lifecycle_stage: active
+run_id: 47a240eca7004761a973cb83b3e1409c
+run_name: rebellious-skunk-536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757998486887
+status: 3
+tags: []
+user_id: HP

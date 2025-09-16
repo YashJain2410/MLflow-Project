@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/509461809332073717/c49a25c6f5694c219db27bcef800481b/artifacts
+end_time: 1757998255442
+entry_point_name: ''
+experiment_id: '509461809332073717'
+lifecycle_stage: active
+run_id: c49a25c6f5694c219db27bcef800481b
+run_name: rare-rook-190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757998225172
+status: 3
+tags: []
+user_id: HP
