@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/83526a23b3c743c98287ea5ae16723a1/artifacts
+end_time: 1758004638549
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: 83526a23b3c743c98287ea5ae16723a1
+run_name: polite-donkey-993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638447
+status: 3
+tags: []
+user_id: HP

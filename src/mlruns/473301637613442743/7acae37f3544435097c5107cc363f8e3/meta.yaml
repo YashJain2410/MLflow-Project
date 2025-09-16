@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/7acae37f3544435097c5107cc363f8e3/artifacts
+end_time: 1758004637843
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: 7acae37f3544435097c5107cc363f8e3
+run_name: crawling-dolphin-766
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004637733
+status: 3
+tags: []
+user_id: HP

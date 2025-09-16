@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/e2ac0e23e1e1407fa373a8313243c4da/artifacts
+end_time: 1758004638442
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: e2ac0e23e1e1407fa373a8313243c4da
+run_name: youthful-shark-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638354
+status: 3
+tags: []
+user_id: HP

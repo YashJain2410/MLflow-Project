@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/b4509e48e35349f7ba18741677fb7eb9/artifacts
+end_time: 1758004639022
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: b4509e48e35349f7ba18741677fb7eb9
+run_name: rebellious-horse-722
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638894
+status: 3
+tags: []
+user_id: HP

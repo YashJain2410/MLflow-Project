@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/6e87878ea19041ed92beda2fd0eeea36/artifacts
+end_time: 1758004638886
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: 6e87878ea19041ed92beda2fd0eeea36
+run_name: whimsical-eel-651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638757
+status: 3
+tags: []
+user_id: HP

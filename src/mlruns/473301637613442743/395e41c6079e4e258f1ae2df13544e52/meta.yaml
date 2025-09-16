@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/395e41c6079e4e258f1ae2df13544e52/artifacts
+end_time: 1758004648527
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: 395e41c6079e4e258f1ae2df13544e52
+run_name: wistful-carp-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004625040
+status: 3
+tags: []
+user_id: HP

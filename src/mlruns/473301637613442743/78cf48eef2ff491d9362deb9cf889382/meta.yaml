@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/78cf48eef2ff491d9362deb9cf889382/artifacts
+end_time: 1758004638657
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: 78cf48eef2ff491d9362deb9cf889382
+run_name: kindly-toad-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638556
+status: 3
+tags: []
+user_id: HP

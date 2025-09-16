@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/cd05f18876fe45a18b179fa38d76c2a8/artifacts
+end_time: 1758004638750
+entry_point_name: ''
+experiment_id: '473301637613442743'
+lifecycle_stage: active
+run_id: cd05f18876fe45a18b179fa38d76c2a8
+run_name: dashing-flea-623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758004638663
+status: 3
+tags: []
+user_id: HP

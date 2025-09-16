@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/DATAA/YASH/MLOps%20Course/Practice/MLflow-Project/src/mlruns/473301637613442743/models/m-a8cf2273fecd43b0a07002a5eb414be0/artifacts
+creation_timestamp: 1758004639356
+experiment_id: '473301637613442743'
+last_updated_timestamp: 1758004648486
+model_id: m-a8cf2273fecd43b0a07002a5eb414be0
+model_type: null
+name: random_forest
+source_run_id: 395e41c6079e4e258f1ae2df13544e52
+status: 2
+status_message: null
